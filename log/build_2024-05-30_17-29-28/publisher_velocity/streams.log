@@ -1,9 +1,0 @@
-[0.742s] Invoking command in '/src/docker-ros2-rover-simulation/src/publisher_velocity': PYTHONPATH=/src/docker-ros2-rover-simulation/build/publisher_velocity/prefix_override:/src/docker-ros2-rover-simulation/install/publisher_velocity/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/publisher_velocity build --build-base /src/docker-ros2-rover-simulation/build/publisher_velocity/build install --record /src/docker-ros2-rover-simulation/build/publisher_velocity/install.log --install-scripts $base/lib/publisher_velocity --single-version-externally-managed install_data
-[0.964s] running egg_info
-[0.965s] writing ../../build/publisher_velocity/publisher_velocity.egg-info/PKG-INFO
-[0.965s] writing dependency_links to ../../build/publisher_velocity/publisher_velocity.egg-info/dependency_links.txt
-[0.966s] writing entry points to ../../build/publisher_velocity/publisher_velocity.egg-info/entry_points.txt
-[0.966s] writing requirements to ../../build/publisher_velocity/publisher_velocity.egg-info/requires.txt
-[0.966s] writing top-level names to ../../build/publisher_velocity/publisher_velocity.egg-info/top_level.txt
-[1.000s] error: package directory 'publisher_velocity' does not exist
-[1.019s] Invoked command in '/src/docker-ros2-rover-simulation/src/publisher_velocity' returned '1': PYTHONPATH=/src/docker-ros2-rover-simulation/build/publisher_velocity/prefix_override:/src/docker-ros2-rover-simulation/install/publisher_velocity/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/publisher_velocity build --build-base /src/docker-ros2-rover-simulation/build/publisher_velocity/build install --record /src/docker-ros2-rover-simulation/build/publisher_velocity/install.log --install-scripts $base/lib/publisher_velocity --single-version-externally-managed install_data

@@ -1,1 +1,1 @@
-/opt/ros/foxy
+/src/docker-ros2-rover-simulation/install/rover_gz_description:/src/docker-ros2-rover-simulation/install/publisher_velocity:/opt/ros/foxy

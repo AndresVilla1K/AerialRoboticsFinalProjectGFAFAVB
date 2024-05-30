@@ -1,0 +1,20 @@
+[1.783s] Invoking command in '/src/docker-ros2-rover-simulation/src/publisher_velocity': PYTHONPATH=/src/docker-ros2-rover-simulation/build/publisher_velocity/prefix_override:/src/docker-ros2-rover-simulation/install/publisher_velocity/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/publisher_velocity build --build-base /src/docker-ros2-rover-simulation/build/publisher_velocity/build install --record /src/docker-ros2-rover-simulation/build/publisher_velocity/install.log --install-scripts $base/lib/publisher_velocity --single-version-externally-managed install_data
+[2.312s] running egg_info
+[2.313s] writing ../../build/publisher_velocity/publisher_velocity.egg-info/PKG-INFO
+[2.314s] writing dependency_links to ../../build/publisher_velocity/publisher_velocity.egg-info/dependency_links.txt
+[2.314s] writing entry points to ../../build/publisher_velocity/publisher_velocity.egg-info/entry_points.txt
+[2.314s] writing requirements to ../../build/publisher_velocity/publisher_velocity.egg-info/requires.txt
+[2.314s] writing top-level names to ../../build/publisher_velocity/publisher_velocity.egg-info/top_level.txt
+[2.419s] reading manifest file '../../build/publisher_velocity/publisher_velocity.egg-info/SOURCES.txt'
+[2.422s] writing manifest file '../../build/publisher_velocity/publisher_velocity.egg-info/SOURCES.txt'
+[2.422s] running build
+[2.422s] running build_py
+[2.423s] running install
+[2.424s] running install_lib
+[2.425s] running install_data
+[2.426s] running install_egg_info
+[2.429s] removing '/src/docker-ros2-rover-simulation/install/publisher_velocity/lib/python3.8/site-packages/publisher_velocity-0.0.0-py3.8.egg-info' (and everything under it)
+[2.430s] Copying ../../build/publisher_velocity/publisher_velocity.egg-info to /src/docker-ros2-rover-simulation/install/publisher_velocity/lib/python3.8/site-packages/publisher_velocity-0.0.0-py3.8.egg-info
+[2.431s] running install_scripts
+[2.479s] writing list of installed files to '/src/docker-ros2-rover-simulation/build/publisher_velocity/install.log'
+[2.548s] Invoked command in '/src/docker-ros2-rover-simulation/src/publisher_velocity' returned '0': PYTHONPATH=/src/docker-ros2-rover-simulation/build/publisher_velocity/prefix_override:/src/docker-ros2-rover-simulation/install/publisher_velocity/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/publisher_velocity build --build-base /src/docker-ros2-rover-simulation/build/publisher_velocity/build install --record /src/docker-ros2-rover-simulation/build/publisher_velocity/install.log --install-scripts $base/lib/publisher_velocity --single-version-externally-managed install_data
