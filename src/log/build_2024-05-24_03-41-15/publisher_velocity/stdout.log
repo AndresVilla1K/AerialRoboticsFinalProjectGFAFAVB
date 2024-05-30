@@ -1,0 +1,34 @@
+running egg_info
+creating ../build/publisher_velocity/publisher_velocity.egg-info
+writing ../build/publisher_velocity/publisher_velocity.egg-info/PKG-INFO
+writing dependency_links to ../build/publisher_velocity/publisher_velocity.egg-info/dependency_links.txt
+writing entry points to ../build/publisher_velocity/publisher_velocity.egg-info/entry_points.txt
+writing requirements to ../build/publisher_velocity/publisher_velocity.egg-info/requires.txt
+writing top-level names to ../build/publisher_velocity/publisher_velocity.egg-info/top_level.txt
+writing manifest file '../build/publisher_velocity/publisher_velocity.egg-info/SOURCES.txt'
+reading manifest file '../build/publisher_velocity/publisher_velocity.egg-info/SOURCES.txt'
+writing manifest file '../build/publisher_velocity/publisher_velocity.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /src/docker-ros2-rover-simulation/src/build/publisher_velocity/build
+creating /src/docker-ros2-rover-simulation/src/build/publisher_velocity/build/lib
+creating /src/docker-ros2-rover-simulation/src/build/publisher_velocity/build/lib/publisher_velocity
+copying publisher_velocity/__init__.py -> /src/docker-ros2-rover-simulation/src/build/publisher_velocity/build/lib/publisher_velocity
+copying publisher_velocity/publisher_cmd.py -> /src/docker-ros2-rover-simulation/src/build/publisher_velocity/build/lib/publisher_velocity
+running install
+running install_lib
+creating /src/docker-ros2-rover-simulation/src/install/publisher_velocity/lib/python3.8/site-packages/publisher_velocity
+copying /src/docker-ros2-rover-simulation/src/build/publisher_velocity/build/lib/publisher_velocity/__init__.py -> /src/docker-ros2-rover-simulation/src/install/publisher_velocity/lib/python3.8/site-packages/publisher_velocity
+copying /src/docker-ros2-rover-simulation/src/build/publisher_velocity/build/lib/publisher_velocity/publisher_cmd.py -> /src/docker-ros2-rover-simulation/src/install/publisher_velocity/lib/python3.8/site-packages/publisher_velocity
+byte-compiling /src/docker-ros2-rover-simulation/src/install/publisher_velocity/lib/python3.8/site-packages/publisher_velocity/__init__.py to __init__.cpython-38.pyc
+byte-compiling /src/docker-ros2-rover-simulation/src/install/publisher_velocity/lib/python3.8/site-packages/publisher_velocity/publisher_cmd.py to publisher_cmd.cpython-38.pyc
+running install_data
+creating /src/docker-ros2-rover-simulation/src/install/publisher_velocity/share/ament_index
+creating /src/docker-ros2-rover-simulation/src/install/publisher_velocity/share/ament_index/resource_index
+creating /src/docker-ros2-rover-simulation/src/install/publisher_velocity/share/ament_index/resource_index/packages
+copying resource/publisher_velocity -> /src/docker-ros2-rover-simulation/src/install/publisher_velocity/share/ament_index/resource_index/packages
+copying package.xml -> /src/docker-ros2-rover-simulation/src/install/publisher_velocity/share/publisher_velocity
+running install_egg_info
+Copying ../build/publisher_velocity/publisher_velocity.egg-info to /src/docker-ros2-rover-simulation/src/install/publisher_velocity/lib/python3.8/site-packages/publisher_velocity-0.0.0-py3.8.egg-info
+running install_scripts
+writing list of installed files to '/src/docker-ros2-rover-simulation/src/build/publisher_velocity/install.log'

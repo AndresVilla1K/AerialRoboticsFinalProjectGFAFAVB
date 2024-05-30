@@ -1,0 +1,7 @@
+running egg_info
+writing ../../build/publisher_velocity/publisher_velocity.egg-info/PKG-INFO
+writing dependency_links to ../../build/publisher_velocity/publisher_velocity.egg-info/dependency_links.txt
+writing entry points to ../../build/publisher_velocity/publisher_velocity.egg-info/entry_points.txt
+writing requirements to ../../build/publisher_velocity/publisher_velocity.egg-info/requires.txt
+writing top-level names to ../../build/publisher_velocity/publisher_velocity.egg-info/top_level.txt
+error: package directory 'publisher_velocity' does not exist
